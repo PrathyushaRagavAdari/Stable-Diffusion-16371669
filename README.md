@@ -36,3 +36,6 @@ This project implements a data-driven, controlled image generation system using 
 * **AI Tools Disclosure**: 
     * *GitHub Copilot*: Used for boilerplate code generation.
     * *Gemini*: Used for structuring the pipeline architecture, refining the prompt engineering templates, and formatting documentation.
+
+# Demo Video
+Link: https://umsystem.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=578c75da-4390-4a3b-886a-b433003e7d60
