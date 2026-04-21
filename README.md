@@ -5,6 +5,7 @@ GenAI: Controlled Image Generation with Stable Diffusion
 
 # Title: Health Paws Viz
 Author: Prathyu Adari
+
 ID: 16371669
 
 ## Overview
