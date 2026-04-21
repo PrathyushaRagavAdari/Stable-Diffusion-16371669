@@ -1,7 +1,10 @@
 # Stable-Diffusion-16371669
+AI Animal Care & Pet Health Visualization System
 GenAI: Controlled Image Generation with Stable Diffusion
 
-# AI Animal Care & Pet Health Visualization System
+# Title: Health Paws Viz
+Author: Prathyu Adari
+ID: 16371669
 
 ## Overview
 This project implements a data-driven, controlled image generation system using Stable Diffusion. It takes structured input (animal type, breed, condition, environment) and generates responsible, high-quality educational visualizations for veterinary scenarios.
