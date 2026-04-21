@@ -1,5 +1,6 @@
 # Stable-Diffusion-16371669
 AI Animal Care & Pet Health Visualization System
+
 GenAI: Controlled Image Generation with Stable Diffusion
 
 # Title: Health Paws Viz
