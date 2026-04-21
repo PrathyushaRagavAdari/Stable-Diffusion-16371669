@@ -23,7 +23,7 @@ This project implements a data-driven, controlled image generation system using 
 
 ## How to Run
 1. Install dependencies: `pip install diffusers transformers accelerate torch pillow`
-2. Run the pipeline: `python pipeline.py`
+2. Run the pipeline: `python main.py`
 3. Check the `/output_images` directory for baseline vs. improved comparisons.
 
 ## Evaluation & Metrics
